@@ -15,12 +15,18 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 👋 Hi, I’m @superbackend-dev
+- 👋 Hi, I’m @MernDev0603
 - 📫 How to reach me <br>
-  -- Email: yakenichi1026@gmail.com,<br>
+  -- Email: merndev0603@gmail.com,<br>
   -- Phone: +1 386 675 0284,<br>
-  -- Skype: live:.cid.4a0077095ccd1ee1<br>
+  -- Skype: live:.cid.d40dd2d72f585867<br>
+I am a passionate and top-quality JavaScript developer with great hands on React.js, Gatsby.js and Node.js or more specifically I am a Full Stack Developer with more than 8 years of practice and exceptional expertise in JavaScript.  I develop reliable, testable and high-performing web applications using top-notch technologies
 
+I have solid understanding of web and mobile app development life cycle, user interface designing and quality assurance. While working on a new project, i follow complete "Software Development Life Cycle" starting with requirements gathering so that i can have a clear understanding of clients needs and final deliverable.
+If you are in a middle of some rough concept or already have specifications, I'll work with you to turn your idea into a reality. Moreover, I am also capable to do modifications or upgrade your existing application. I can learn your code base quickly, fix bugs, refactor messy code, and add new features as needed.
+I am aiming at long-term and successful collaboration with clients, that’s why I am trying to deliver valuable increment with the best possible quality.
+
+The Tech Stack I primarily deal with is the following 💻:
 <p>
 <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/50fac4962e5aaff4133723f8843be129b9e124f9ff6094b46a3b1ea248e8dae3/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4672616d65776f726b2d52656163742d696e666f726d6174696f6e616c3f7374796c653d666c6174266c6f676f3d7265616374266c6f676f436f6c6f723d776869746526636f6c6f723d336261633361"><img src="https://camo.githubusercontent.com/50fac4962e5aaff4133723f8843be129b9e124f9ff6094b46a3b1ea248e8dae3/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4672616d65776f726b2d52656163742d696e666f726d6174696f6e616c3f7374796c653d666c6174266c6f676f3d7265616374266c6f676f436f6c6f723d776869746526636f6c6f723d336261633361" alt="" data-canonical-src="https://img.shields.io/badge/Framework-React-informational?style=flat&amp;logo=react&amp;logoColor=white&amp;color=3bac3a" style="max-width: 100%;"></a>
 <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/1200b80618fc7b8d85db31e89ead5c17c47047ad5666830e4a3e90213fba94e8/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4672616d65776f726b2d5675652d696e666f726d6174696f6e616c3f7374796c653d666c6174266c6f676f3d7675652e6a73266c6f676f436f6c6f723d776869746526636f6c6f723d336261633361"><img src="https://camo.githubusercontent.com/1200b80618fc7b8d85db31e89ead5c17c47047ad5666830e4a3e90213fba94e8/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4672616d65776f726b2d5675652d696e666f726d6174696f6e616c3f7374796c653d666c6174266c6f676f3d7675652e6a73266c6f676f436f6c6f723d776869746526636f6c6f723d336261633361" alt="" data-canonical-src="https://img.shields.io/badge/Framework-Vue-informational?style=flat&amp;logo=vue.js&amp;logoColor=white&amp;color=3bac3a" style="max-width: 100%;"></a>
@@ -47,26 +53,5 @@ Here are some ideas to get you started:
 <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/0943dab0efa85119ace7c8ae17be4de514c6f4ad0e3bc971a1b40ff3e4178d40/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f5368656c6c2d426173682d696e666f726d6174696f6e616c3f7374796c653d666c6174266c6f676f3d676e752d62617368266c6f676f436f6c6f723d776869746526636f6c6f723d336261633361"><img src="https://camo.githubusercontent.com/0943dab0efa85119ace7c8ae17be4de514c6f4ad0e3bc971a1b40ff3e4178d40/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f5368656c6c2d426173682d696e666f726d6174696f6e616c3f7374796c653d666c6174266c6f676f3d676e752d62617368266c6f676f436f6c6f723d776869746526636f6c6f723d336261633361" alt="" data-canonical-src="https://img.shields.io/badge/Shell-Bash-informational?style=flat&amp;logo=gnu-bash&amp;logoColor=white&amp;color=3bac3a" style="max-width: 100%;"></a>
 <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/83a38c3f756b687af8bee12a53c240ec30dec5e6dd390f351c3f141009a46b49/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f546f6f6c732d446f636b65722d696e666f726d6174696f6e616c3f7374796c653d666c6174266c6f676f3d646f636b6572266c6f676f436f6c6f723d776869746526636f6c6f723d336261633361"><img src="https://camo.githubusercontent.com/83a38c3f756b687af8bee12a53c240ec30dec5e6dd390f351c3f141009a46b49/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f546f6f6c732d446f636b65722d696e666f726d6174696f6e616c3f7374796c653d666c6174266c6f676f3d646f636b6572266c6f676f436f6c6f723d776869746526636f6c6f723d336261633361" alt="" data-canonical-src="https://img.shields.io/badge/Tools-Docker-informational?style=flat&amp;logo=docker&amp;logoColor=white&amp;color=3bac3a" style="max-width: 100%;"></a>
 <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/4366d9b130ad196968955947889c127aebb527f1980c3c497bbe910f5d81e703/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f436c6f75642d4469676974616c5f4f6365616e2d696e666f726d6174696f6e616c3f7374796c653d666c6174266c6f676f3d6469676974616c6f6365616e266c6f676f436f6c6f723d776869746526636f6c6f723d336261633361"><img src="https://camo.githubusercontent.com/4366d9b130ad196968955947889c127aebb527f1980c3c497bbe910f5d81e703/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f436c6f75642d4469676974616c5f4f6365616e2d696e666f726d6174696f6e616c3f7374796c653d666c6174266c6f676f3d6469676974616c6f6365616e266c6f676f436f6c6f723d776869746526636f6c6f723d336261633361" alt="" data-canonical-src="https://img.shields.io/badge/Cloud-Digital_Ocean-informational?style=flat&amp;logo=digitalocean&amp;logoColor=white&amp;color=3bac3a" style="max-width: 100%;"></a>
-<a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/7317fb9135991ebf2c30f7144a5d60ea7c9b04b3cd4f8f278dcbbfa6c06c7b7c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f436c6f75642d4157532d696e666f726d6174696f6e616c3f7374796c653d666c6174266c6f676f3d416d617a6f6e266c6f676f436f6c6f723d776869746526636f6c6f723d336261633361"><img src="https://camo.githubusercontent.com/7317fb9135991ebf2c30f7144a5d60ea7c9b04b3cd4f8f278dcbbfa6c06c7b7c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f436c6f75642d4157532d696e666
-  
-  
-  
-  
-  
-I am a passionate and top-quality JavaScript developer with great hands on React.js, Gatsby.js and Node.js or more specifically I am a Full Stack Developer with more than 8 years of practice and exceptional expertise in JavaScript.  I develop reliable, testable and high-performing web applications using top-notch technologies
-
-I have solid understanding of web and mobile app development life cycle, user interface designing and quality assurance. While working on a new project, i follow complete "Software Development Life Cycle" starting with requirements gathering so that i can have a clear understanding of clients needs and final deliverable.
-
-The Tech Stack I primarily deal with is the following 💻:
-
-▪️Back-End: Node.js (Express.js), Nest.js
-▪️Front-End: React (Redux, TypeScript) / HTML5/CSS3 , Bootstrap 3/4
-▪️Data visualization (Highcharts, Chart.js, D3.js etc.)
-▪️DB: MySQL / PostgreSQL / MongoDB programming
-▪️REST API development/integrations: Stripe, Google, Facebook, Salesforce etc.
-▪️Amazon Web Services: EC2, S3, RDS, CloudSearch etc.
-▪️Blockchain: MetaMask, Web3.js, Ethereum, Smart Contract
-
-If you are in a middle of some rough concept or already have specifications, I'll work with you to turn your idea into a reality. Moreover, I am also capable to do modifications or upgrade your existing application. I can learn your code base quickly, fix bugs, refactor messy code, and add new features as needed.
-I am aiming at long-term and successful collaboration with clients, that’s why I am trying to deliver valuable increment with the best possible quality.
-Thank you for being here on my profile
+<a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/7317fb9135991ebf2c30f7144a5d60ea7c9b04b3cd4f8f278dcbbfa6c06c7b7c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f436c6f75642d4157532d696e666f726d6174696f6e616c3f7374796c653d666c6174266c6f676f3d416d617a6f6e266c6f676f436f6c6f723d776869746526636f6c6f723d336261633361"><img src="https://camo.githubusercontent.com/7317fb9135991ebf2c30f7144a5d60ea7c9b04b3cd4f8f278dcbbfa6c06c7b7c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f436c6f75642d4157532d696e666f726d6174696f6e616c3f7374796c653d666c6174266c6f676f3d416d617a6f6e266c6f676f436f6c6f723d776869746526636f6c6f723d336261633361" alt="" data-canonical-src="https://img.shields.io/badge/Cloud-AWS-informational?style=flat&amp;logo=Amazon&amp;logoColor=white&amp;color=3bac3a" style="max-width: 100%;"></a>
+</p>

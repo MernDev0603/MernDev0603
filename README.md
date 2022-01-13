@@ -15,11 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 👋 Hi, I’m @MernDev0603
+- 😄 I’m @MernDev0603
 - 📫 How to reach me <br>
-  -- Email: merndev0603@gmail.com,<br>
-  -- Phone: +1 386 675 0284,<br>
-  -- Skype: live:.cid.d40dd2d72f585867<br>
+- 💬 Email: merndev0603@gmail.com,<br>
+- ⚡ Phone: +1 386 675 0284,<br>
+- 🌱 Skype: live:.cid.d40dd2d72f585867<br>
   
 I am a passionate and top-quality JavaScript developer with great hands on React.js, Gatsby.js and Node.js or more specifically I am a Full Stack Developer with more than 8 years of practice and exceptional expertise in JavaScript.  I develop reliable, testable and high-performing web applications using top-notch technologies
 I have solid understanding of web and mobile app development life cycle, user interface designing and quality assurance. While working on a new project, i follow complete "Software Development Life Cycle" starting with requirements gathering so that i can have a clear understanding of clients needs and final deliverable.

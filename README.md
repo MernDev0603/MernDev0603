@@ -21,9 +21,35 @@ Here are some ideas to get you started:
 - ⚡ Phone: +1 386 675 0284,<br>
 - 🌱 Skype: live:.cid.d40dd2d72f585867<br>
   
-I am a passionate and top-quality JavaScript developer with great hands on React.js, Gatsby.js and Node.js or more specifically I am a Full Stack Developer with more than 8 years of practice and exceptional expertise in JavaScript.  I develop reliable, testable and high-performing web applications using top-notch technologies
-I have solid understanding of web and mobile app development life cycle, user interface designing and quality assurance. While working on a new project, i follow complete "Software Development Life Cycle" starting with requirements gathering so that i can have a clear understanding of clients needs and final deliverable.
+This is Konno Kazunori, Full Stack & Blockchain Developer using Solidity, React.js and Redux with an experience of more than 7 years in creating and customizing Blockchain and React.js/Web3 as well.
+ I have rich experiences about developing/forking/cloning Dapps such as Pancakeswap, Sushiswap, GooseDefi and I've worked on the Fastswap, Pantherswap and Sushiswap platform.
+Additionally, My expertise is in providing high-quality Drag and Drop User-Friendly UI/Material Design and coding in a very short amount of time.
+Over the last 7 years, I mainly focused on Blockchain technologies with Web3 / ether.js/Polkadot/Solidity, Token, and Coin development.
+While working on a new project, i follow complete "Software Development Life Cycle" starting with requirements gathering so that i can have a clear understanding of clients needs and final deliverable.
 If you are in a middle of some rough concept or already have specifications, I'll work with you to turn your idea into a reality. Moreover, I am also capable to do modifications or upgrade your existing application. I can learn your code base quickly, fix bugs, refactor messy code, and add new features as needed.
+I am available for:
+-Smart contract development, testing, and deployment
+-Creating web-based front ends to interact with smart contracts
+-Creating Cryptocurrencies and launching ICOs
+...
+Also, I have an rich experience not only ETH mainnet and BSC chainnet, but also harmony and matic network.
+This is the NFT site and blockchain game I take part in the development in the past.
+https://cashboxer.com/
+
+And these are sites I worked in the past.
+dex.fastswap.exchange (ethereum mainnet)
+fastswap.finance (bsc chainnet)
+pantherswap.com (bsc chainnet)
+miso.sushi.com
+
+My work style:
+● Start project immediately
+● Full-time developer (40+ hours per week)
+● Work in your time zone and communicate well.
+● Weekly results update
+● Stay on time and on budget
+● 100% continuous satisfaction with the project.
+● Provide high-quality results
 I am aiming at long-term and successful collaboration with clients, that’s why I am trying to deliver valuable increment with the best possible quality.
 
 The Tech Stack I primarily deal with is the following 💻:

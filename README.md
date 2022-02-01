@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 - ⚡ Phone: +1 386 675 0284,<br>
 - 🌱 Skype: live:.cid.d40dd2d72f585867<br>
   
-This is Konno Kazunori, Full Stack & Blockchain Developer using Solidity, React.js and Redux with an experience of more than 7 years in creating and customizing Blockchain and React.js/Web3 as well.
+I am Senior Full Stack & Blockchain Developer using Solidity, React.js and Redux with an experience of more than 7 years in creating and customizing Blockchain and React.js/Web3 as well.
  I have rich experiences about developing/forking/cloning Dapps such as Pancakeswap, Sushiswap, GooseDefi and I've worked on the Fastswap, Pantherswap and Sushiswap platform.
 Additionally, My expertise is in providing high-quality Drag and Drop User-Friendly UI/Material Design and coding in a very short amount of time.
 Over the last 7 years, I mainly focused on Blockchain technologies with Web3 / ether.js/Polkadot/Solidity, Token, and Coin development.

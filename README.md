@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 - 😄 I’m @MernDev0603
 - 📫 How to reach me <br>
 - 💬 Email: merndev0603@gmail.com,<br>
-- ⚡ Phone: +1 386 675 0284,<br>
+- ⚡ Telegram: @SmartDev0603,<br>
 - 🌱 Skype: live:.cid.d40dd2d72f585867<br>
   
 I am Senior Full Stack & Blockchain Developer using Solidity, React.js and Redux with an experience of more than 7 years in creating and customizing Blockchain and React.js/Web3 as well.

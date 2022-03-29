@@ -21,36 +21,52 @@ Here are some ideas to get you started:
 - ⚡ Telegram: @SmartDev0603,<br>
 - 🌱 Skype: live:.cid.d40dd2d72f585867<br>
   
-I am Senior Full Stack & Blockchain Developer using Solidity, React.js and Redux with an experience of more than 7 years in creating and customizing Blockchain and React.js/Web3 as well.
- I have rich experiences about developing/forking/cloning Dapps such as Pancakeswap, Sushiswap, GooseDefi and I've worked on the Fastswap, Pantherswap and Sushiswap platform.
+This is senior Full Stack & Blockchain Developer using Solidity, React.js and Redux with an experience of more than 7 years in creating and customizing Blockchain and React.js/Web3 as well. 
+I have rich experiences about developing/forking/cloning Dapps such as Pancakeswap, Sushiswap, GooseDefi and I've worked on the Fastswap, Pantherswap and Sushiswap platform.
 Additionally, My expertise is in providing high-quality Drag and Drop User-Friendly UI/Material Design and coding in a very short amount of time.
-Over the last 7 years, I mainly focused on Blockchain technologies with Web3 / ether.js/Polkadot/Solidity, Token, and Coin development.
-While working on a new project, i follow complete "Software Development Life Cycle" starting with requirements gathering so that i can have a clear understanding of clients needs and final deliverable.
-If you are in a middle of some rough concept or already have specifications, I'll work with you to turn your idea into a reality. Moreover, I am also capable to do modifications or upgrade your existing application. I can learn your code base quickly, fix bugs, refactor messy code, and add new features as needed.
+Over the last 5 years, I mainly focused on Blockchain technologies with Web3 / ether.js / Polkadot / Solidity, Token, and Coin development.
 I am available for:
 -Smart contract development, testing, and deployment
 -Creating web-based front ends to interact with smart contracts
 -Creating Cryptocurrencies and launching ICOs
 ...
 Also, I have an rich experience not only ETH mainnet and BSC chainnet, but also harmony and matic network.
-This is the NFT site and blockchain game I take part in the development in the past.
-https://cashboxer.com/
 
-And these are sites I worked in the past.
-dex.fastswap.exchange (ethereum mainnet)
-fastswap.finance (bsc chainnet)
-pantherswap.com (bsc chainnet)
-miso.sushi.com
+[ CORE SKILLS ]
+- Blockchain(BitCoin | Ethereum | Solana | Binance Smart Chain(BSC) | Polygon | Fantom | TRON)
+  o NFT minting site
+  o Decentralized Finance(Defi)
+  o NFT marketplace
+  o Development and Audit Smart Contract
+  o DEX Development
+- Full-stack development
+  o MERN (MongoDB + Express + React + NodeJS)
+  o MEVN (MongoDB + Express + Vue.js + NodeJS)
+  o MEAN (MongoDB + Express + Angular + NodeJS)
+  o Web based system development(PHP, Laravel, NodeJS...)
+  o Ecommerce website development(Woocommerce, Shopify...)
+  o React + Firebase | Vue.js + Firebase | Angular + Firebase
+  o Laravel + React | Laravel + Vue.js | Laravel + Angular
+  o MongoDB | MySQL | Firebase
+  o NodeJS | Express | PHP | Laravel | CodeIgniter
+  o Next.js | Nuxt.js | Nest.js
+- Front-End development
+  o React | Vue.js | Angular
+  o HTML | HTML5 | CSS | SCSS | Bootstrap | Tailwind
+  o JavaScript | jQuery | TypeScript
 
-My work style:
-● Start project immediately
-● Full-time developer (40+ hours per week)
-● Work in your time zone and communicate well.
-● Weekly results update
-● Stay on time and on budget
-● 100% continuous satisfaction with the project.
-● Provide high-quality results
-I am aiming at long-term and successful collaboration with clients, that’s why I am trying to deliver valuable increment with the best possible quality.
+[ SPECIAL SKILLS ]
+- Prefer Backend Logic Build
+- Stripe | Square |, etc. Payment API
+[ SERVICES ]
+- Responsible communication (any time).
+- Flexible Time Zone
+- Free DevOps | Git | Heroku | Docker
+- Deliver Daily or Weekly results.
+- Full Time(24/7) Development with a weekend.
+- Provide professional code like the unit test in RESTful API endpoint.
+
+I am always looking for long term relationships based on trust and professionalism.
 
 The Tech Stack I primarily deal with is the following 💻:
 <p>

@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 - 😄 I’m @MernDev0603
 - 📫 How to reach me <br>
 - 💬 Email: merndev0603@gmail.com,<br>
-- 💬 Telegram: @SmartDev0603,<br>
+- 💬 Telegram: @Peloma63,<br>
 - 💬 Skype: live:.cid.d40dd2d72f585867<br>
 - 💬 Discord: PelomaPP#7900<br>
   

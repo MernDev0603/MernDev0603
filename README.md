@@ -18,9 +18,9 @@ Here are some ideas to get you started:
 - 😄 I’m @MernDev0603
 - 📫 How to reach me <br>
 - 💬 Email: merndev0603@gmail.com,<br>
-- 💬 Telegram: @Peloma63,<br>
+- 💬 Telegram: @MY017900,<br>
 - 💬 Skype: live:.cid.d40dd2d72f585867<br>
-- 💬 Discord: PelomaPP#7900<br>
+- 💬 Discord: MY01#7900<br>
   
 This is senior Full Stack & Blockchain Developer using Solidity, React.js and Redux with an experience of more than 7 years in creating and customizing Blockchain and React.js/Web3 as well. 
 I have rich experiences about developing/forking/cloning Dapps such as Pancakeswap, Sushiswap, GooseDefi and I've worked on the Fastswap, Pantherswap and Sushiswap platform.

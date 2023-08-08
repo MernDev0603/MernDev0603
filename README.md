@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me <br>
 - 💬 Email: merndev0603@gmail.com,<br>
 - 💬 Telegram: @MY017900,<br>
-- 💬 Skype: live:.cid.d40dd2d72f585867<br>
+- 💬 Skype: live:.cid.cc781a49c17fc9e3<br>
 - 💬 Discord: MY01#7900<br>
   
 This is senior Full Stack & Blockchain Developer using Solidity, React.js and Redux with an experience of more than 7 years in creating and customizing Blockchain and React.js/Web3 as well. 

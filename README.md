@@ -18,20 +18,12 @@ Here are some ideas to get you started:
 - 😄 I’m @MernDev0603
 - 📫 How to reach me <br>
 - 💬 Email: merndev0603@gmail.com,<br>
-- 💬 Telegram: @MY017900,<br>
+- 💬 Telegram: @peloma63,<br>
 - 💬 Skype: live:.cid.cc781a49c17fc9e3<br>
-- 💬 Discord: my017900<br>
+- 💬 Discord: peloma63<br>
   
-This is senior Full Stack & Blockchain Developer using Solidity, React.js and Redux with an experience of more than 7 years in creating and customizing Blockchain and React.js/Web3 as well. 
-I have rich experiences about developing/forking/cloning Dapps such as Pancakeswap, Sushiswap, GooseDefi and I've worked on the Fastswap, Pantherswap and Sushiswap platform.
-Additionally, My expertise is in providing high-quality Drag and Drop User-Friendly UI/Material Design and coding in a very short amount of time.
-Over the last 5 years, I mainly focused on Blockchain technologies with Web3 / ether.js / Polkadot / Solidity, Token, and Coin development.
-I am available for:
--Smart contract development, testing, and deployment
--Creating web-based front ends to interact with smart contracts
--Creating Cryptocurrencies and launching ICOs
-...
-Also, I have an rich experience not only ETH mainnet and BSC chainnet, but also harmony and matic network.
+Experienced MERN stack web developer with a strong passion for leveraging emerging technologies to create impactful and innovative web applications. My mathematics background and expertise in cryptography give me a unique edge in tackling complex challenges with precision and efficiency as a developer.
+As technology continues to evolve, I firmly believe in the transformative potential of the MERN stack. Its robustness and versatility make it an ideal choice for shaping the future of web development. I am actively seeking opportunities to contribute to cutting-edge projects and collaborate with like-minded professionals in the MERN stack community.
 
 [ CORE SKILLS ]
 - Blockchain(BitCoin | Ethereum | Solana | Binance Smart Chain(BSC) | Polygon | Fantom | TRON)

@@ -18,9 +18,9 @@ Here are some ideas to get you started:
 - 😄 I’m @MernDev0603
 - 📫 How to reach me <br>
 - 💬 Email: merndev0603@gmail.com,<br>
-- 💬 Telegram: @peloma63,<br>
-- 💬 Skype: live:.cid.cc781a49c17fc9e3<br>
-- 💬 Discord: peloma63<br>
+- 💬 Telegram: @nimbus973,<br>
+- 💬 Skype: live:.cid.a2ba1b9f5af6f51d<br>
+- 💬 Discord: nimbus730<br>
   
 Experienced MERN stack web developer with a strong passion for leveraging emerging technologies to create impactful and innovative web applications. My mathematics background and expertise in cryptography give me a unique edge in tackling complex challenges with precision and efficiency as a developer.
 As technology continues to evolve, I firmly believe in the transformative potential of the MERN stack. Its robustness and versatility make it an ideal choice for shaping the future of web development. I am actively seeking opportunities to contribute to cutting-edge projects and collaborate with like-minded professionals in the MERN stack community.
